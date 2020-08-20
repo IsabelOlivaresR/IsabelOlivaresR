@@ -11,9 +11,9 @@
 - 📫 How to reach me:
 
 
-                <a href="https://www.linkedin.com/in/isabelolivaresroldan/">LinkedIn</a>
-                <a href="https://twitter.com/IsaOlivaresR?s=09">Twitter</a>
-                <a href="mailto:isabel.olivares6@gmail.com">Email</a>
+     <a href="https://www.linkedin.com/in/isabelolivaresroldan/">LinkedIn</a>
+     <a href="https://twitter.com/IsaOlivaresR?s=09">Twitter</a>
+     <a href="mailto:isabel.olivares6@gmail.com">Email</a>
 
 
 
